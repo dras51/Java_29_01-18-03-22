@@ -4,6 +4,8 @@ public class Main {
 
     //Variable Declaration
     private static int number;
+    private static int secondNumber, thirdNumber;
+    private static String text;
 
     //Global variables. This are variables declared within a class.
     int myGlobal = 12;
